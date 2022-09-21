@@ -16,8 +16,8 @@ and your thing that needs a CLEAN proxy list like just IP:PORT, then just run 'f
 HOW DOES IT WORK???
 makes no fucking sense.
 
-WARNING: a file that contains unfiltered proxy list must be named 'proxy.txt'. It's important as fuck.
+WARNING: a file that contains unfiltered proxy list must be named 'proxy.txt'. It's important as fuck
+If there is no 'filteredproxy.txt' - it will create it.
+After - copy the list to another txt file or copy the 'filteredproxy.txt' to another location and then delete the 'filteredproxy.txt' from the folder with the program. I hope u'll deal with it. 
 
-         if there is no 'filteredproxy.txt' - it will create it. After - copy the list to another txt file or copy the 'filteredproxy.txt' to another location and then            delete the 'filteredproxy.txt' from the folder with the program. I hope u'll deal with it. 
-         
-         By the way - fuck.py must be in the same folder as your unfiltered proxy list.
+By the way - fuck.py must be in the same folder as your unfiltered proxy list.
